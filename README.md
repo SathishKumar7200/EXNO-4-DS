@@ -24,6 +24,10 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
+```python
+
+
+```
        [experiment 4.pdf](https://github.com/user-attachments/files/17973770/experiment.4.pdf)
                     #INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
 # RESULT:
